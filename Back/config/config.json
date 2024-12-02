@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "usuario_app",
+    "password": "mateus2012",
+    "database": "loja_data",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "usuario_app",
+    "password": "mateus2012",
+    "database": "loja_data_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "usuario_app",
+    "password": "mateus2012",
+    "database": "loja_data_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
